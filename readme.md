@@ -13,15 +13,13 @@ Android Retrofit Example
 7-Dialogs
 
 ```
+## Built with
 
-### Thanks to
-```
-* [Spot Dialog](https://github.com/d-max/spots-dialog) 
-* [Material Dialog](https://github.com/afollestad/material-dialogs) 
-* [Retrofit](https://github.com/square/retrofit) 
-* [Gson](https://github.com/google/gson) 
+* [Spot Dialog](https://github.com/d-max/spots-dialog) - [Licence](https://opensource.org/licenses/MIT)
+* [Material Dialog](https://github.com/afollestad/material-dialogs) - [Licence](http://www.apache.org/licenses/LICENSE-2.0)
+* [Retrofit](https://github.com/square/retrofit) - [Licence](  http://www.apache.org/licenses/LICENSE-2.0)
+* [Gson](https://github.com/google/gson) - [Licence]( http://www.apache.org/licenses/LICENSE-2.0)
 
-```
 
 Enjoy it ;)
 
